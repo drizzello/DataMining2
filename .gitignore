@@ -178,3 +178,6 @@ cython_debug/
 backups
 
 arrays
+
+best_models
+tuner_dir
