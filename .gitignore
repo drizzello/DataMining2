@@ -130,12 +130,14 @@ celerybeat.pid
 # Environments
 .env
 .venv
+env_XAI/
 tf-env/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+envBoost/
 
 # Spyder project settings
 .spyderproject
@@ -182,3 +184,15 @@ arrays
 
 best_models
 tuner_dir
+cv_tuner_dir/
+
+Images/
+
+models/
+
+XAI-Lib/
+
+
+catboost_info/
+
+
