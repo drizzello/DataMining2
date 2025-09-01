@@ -51,7 +51,7 @@ This project performs extensive analysis on IMDb movie dataset, covering both **
 
 - **TIME_SERIES_EDA.ipynb** - Time series exploratory analysis
 - **TIME_SERIES_CLUSTERING.ipynb** - Time series clustering
-- **TIME_SERIES_MOTIFS_DISCORDS.ipynb** - Motif and discord discovery
+- **TIME_SERIES_MOTIFS_DISCORDS.ipynb** - Motif and discord discovery and Classification
 
 ## 📈 Dataset Features
 
